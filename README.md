@@ -1,8 +1,8 @@
 # Hi, I'm Alfonso Suarez 👋
 
-**Software engineer and independent mad scientist** from Venezuela 🇻🇪
+**A non-award-winning Software engineer and independent mad scientist** from Venezuela 🇻🇪
 
-I build scalable backends, data integrations, and cloud infrastructure — currently a Backend Engineer at ASP Consulting and a Computer Engineering student at Universidad Católica Andrés Bello. Non-award-winning, but shipping since 2020.
+I build scalable backends, data integrations, and cloud infrastructure — currently working as a Backend Engineer and studying Computer Engineering at Universidad Católica Andrés Bello, shipping since 2020.
 
 ## 🔭 What I do
 
